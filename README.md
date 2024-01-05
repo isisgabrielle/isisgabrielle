@@ -1,9 +1,14 @@
-Olá, me chamo Isis Gabrielle
-• estou no segundo periodo do curso de engenharia da computação na Universidade Federal de Sergipe.
-• tenho afinidade com front-end
-• estudando javascript e c
-• realizei alguns projetos em haskell 
-<div> 
-<a href="https://github.com/isisgabrielle/PerfilGithub"> </a>
-<img height= "180cm" src= "https://github-readme-stats.vercel.app/api?username=isisgabrielle)](https://github.com/anuraghazra/github-readme-stats"/>
+## Olá, me chamo Isis Gabrielle
+
+- estou no segundo periodo do curso de engenharia da computação na Universidade Federal de Sergipe.
+- tenho afinidade com front-end
+- estudando javascript e c
+- realizei alguns projetos em haskell 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isisgabrielle)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Isis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Isis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Isis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
