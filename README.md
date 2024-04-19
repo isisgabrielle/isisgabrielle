@@ -1,6 +1,5 @@
-## Olá, eu me chamo Isis Gabrielle!
 
-- estou no segundo periodo do curso de engenharia da computação na Universidade Federal de Sergipe.
+- estou no terceiro periodo do curso de engenharia da computação na Universidade Federal de Sergipe.
 - tenho afinidade com front-end
 - estudando javascript e c#
 - realizei alguns projetos em c 
