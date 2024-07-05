@@ -1,8 +1,8 @@
 
 - estou no terceiro periodo do curso de engenharia da computação na Universidade Federal de Sergipe.
-- tenho afinidade com front-end
-- estudando javascript e c#
-- realizei alguns projetos em c 
+- desenvolvedora front-end
+- estudando javascript e react
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isisgabrielle)](https://github.com/anuraghazra/github-readme-stats)
 
