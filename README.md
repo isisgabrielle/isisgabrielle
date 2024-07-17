@@ -1,4 +1,4 @@
-
+### hi 
 - estou no terceiro periodo do curso de engenharia da computação na Universidade Federal de Sergipe.
 - desenvolvedora front-end
 - estudando javascript e react
