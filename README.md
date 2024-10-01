@@ -2,8 +2,7 @@
 
 Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe, com afinidade por desenvolvimento web e mobile. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isisgabrielle&show_icons=true&theme=radical)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isisgabrielle&show_icons=true&theme=radical)
 <div style="display: inline_block"><br>
   <img align="center" alt="Isis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
