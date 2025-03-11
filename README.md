@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou Isis Menezes! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Olá, eu me chamo Isis Menezes! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 🎓 Estudante de **Engenharia da Computação** na **Universidade Federal de Sergipe**  
-💻 Organizer do **GDG ARACAJU**
+💻 Organizer do **GDG ARACAJU**<br>
 🌧️ **Desenvolvendo um pibic que utiliza a análise de uma base de dados para estudar a precipitação de Sergipe**  
 
 
@@ -15,14 +15,13 @@
 
 ---
 
-### 🚀 Tecnologias que uso
+### 🤖 Tecnologias que uso
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40">
 </div>
 
 ---
