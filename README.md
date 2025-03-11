@@ -4,6 +4,8 @@ Sou estudante de Engenharia da Computação na Universidade Federal de Sergipe, 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isisgabrielle&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=isisgabrielle&layout=compact&langs_count=6&theme=radical)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Isis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
